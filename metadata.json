@@ -1,0 +1,6 @@
+{
+  "name": "Ziza Firsta Mahadewi Portfolio",
+  "description": "A premium, luxury minimalist portfolio website for Ziza Firsta Mahadewi, integrated with Supabase and styled with burgundy red and luxury dark aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
