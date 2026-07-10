@@ -125,7 +125,6 @@ export default function Hero({ fullName, location, profileImageUrl, linkedinUrl 
 
         </div>
 
-        {/* Right Side: Portrait with Parallax Outer Frame */}
         <div className="lg:col-span-5 flex justify-center lg:justify-end order-1 lg:order-2">
           <motion.div
             id="profile-frame-container"
