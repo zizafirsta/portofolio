@@ -23,7 +23,6 @@ export default function Footer({ linkedinUrl }: FooterProps) {
   const [averageScore, setAverageScore] = useState<number | null>(null);
   const [errorMsg, setErrorMsg] = useState('');
 
-  // Fetch average rating on mount
   useEffect(() => {
     const fetchInitialAverage = async () => {
       try {

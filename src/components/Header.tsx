@@ -20,7 +20,6 @@ export default function Header({ linkedinUrl }: HeaderProps) {
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 50);
 
-      // Simple active section detection on scroll
       const sections = ['home', 'about', 'education', 'projects', 'experience'];
       const scrollPosition = window.scrollY + 100;
 
